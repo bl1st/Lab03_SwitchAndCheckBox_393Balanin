@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lab03_SwithcerAndMessageBox_Balanin393</string>
+    <string name="b_calc">Calculate</string>
+    <string name="check_apple">Apple</string>
+    <string name="check_straw">Strawberry</string>
+    <string name="check_blue">Blueberry</string>
+    <string name="check_potato">Potato</string>
+    <string name="tv_Result">Result value here</string>
+    <string name="tv_Res">Result:</string>
+    <string name="rb_Message">MessageBox</string>
+    <string name="rb_Toast">Toast</string>
+    <string name="text_Food">Food</string>
+    <string name="text_Cost">Cost</string>
+    <string name="text_Amount">Amount</string>
+
+</resources>
